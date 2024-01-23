@@ -1,0 +1,8 @@
+{
+	"extends": "./tsconfig.build.json",
+	"compilerOptions": {
+		"paths": {
+			"@qderoubaix/headless/*": ["./packages/headless/src/lib/*"]
+		}
+	}
+}
