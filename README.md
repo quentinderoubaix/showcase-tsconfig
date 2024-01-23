@@ -4,7 +4,7 @@ Project to discuss the need (or not) to have an optional option tsconfig for sve
 
 ## Set up
 
-After cloning this repo, run ```npm install && npm run build --workspaces```.  
+After cloning this repo, run ```npm install && npm run build```.  
 You can observe that svelte-package added .d.ts files into the source code of packages/headless.
 
 ## What I would hope to do
