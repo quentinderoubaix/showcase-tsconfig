@@ -1,6 +1,6 @@
 ## Context
 
-Project to discuss the need (or not) to have an optional option tsconfig for svelte-package.
+Reproduction repo to discuss the need (or not) to pass the option tsconfig from svelte-package to `emitDts` of svelte2tsx.
 
 ## Set up
 
